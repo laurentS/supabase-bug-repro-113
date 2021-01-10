@@ -1,5 +1,6 @@
 <script>
     import successkid from "images/successkid.jpg";
+    import { createClient } from "@supabase/supabase-js";
 </script>
 
 <style>
